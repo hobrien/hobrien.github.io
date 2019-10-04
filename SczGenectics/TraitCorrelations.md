@@ -1,0 +1,11 @@
+Pickrell, J. K., Berisa, T., Liu, J. Z., Ségurel, L., Tung, J. Y., & Hinds, D. A. (2016). Detection and interpretation of shared genetic influences on 42 human traits. [Nature Genetics, 48(7), 709–717](http://doi.org/10.1038/ng.3570)
+- scan for SNPs that influence pairs of traits from GWAS summary stats
+- compared 4 models for each SNP:
+    - SNP influences trait 1
+    - SNP influences trait 2
+    - SNP influences both traits
+    - separate SNPS that influence each trait
+- If effect sizes are usually in the same direction, traits will also show genetic correlation
+- In cases where SNPs influencing trait 1 also influence trait 2 but SNPs influencing trait 2 don't necessarily influence trait 1, trait 1 is considered to be causal of trait 2
+- Schizophrenia risk loci tended to also be related to inflammatory bowel disorder
+- SLC39A8 identified as influencing scz, as well as other neuropsychiatric traits
