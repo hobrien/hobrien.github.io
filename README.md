@@ -1,6 +1,7 @@
 ## Tools for RNAseq Analyses
 
 This is basically a list of resources that I have put together as a reference for my own research, but I'm publishing it here in case it might help others
+YOu can find a copy of my CV [here](https://github.com/hobrien/CurriculumVitae/blob/master/obrien_cv.pdf)
 
 ### Methods
 - [Review papers]({{ site.baseurl }}/Methods/Reviews)
@@ -27,3 +28,5 @@ This is basically a list of resources that I have put together as a reference fo
 - [Tidy R]({{ site.baseurl }}/WorkflowTutorial/TidyR)
 - [Databases]({{ site.baseurl }}/WorkflowTutorial/Databases)
 - [Shiny]({{ site.baseurl }}/WorkflowTutorial/Shiny)
+
+
